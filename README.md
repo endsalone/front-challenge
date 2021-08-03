@@ -3,7 +3,7 @@
 ## Desafio
 
 Você pode ajudar os usuários a controlarem suas tarefas do dia-a-dia com uso do Angular conforme o wireframe abaixo:
-![wireframe](https://github.com/endsalone/front-challenge/blob/master/assets/desafio-entrevista.jpg?raw=true)
+![wireframe](https://github.com/endsalone/front-challenge/blob/main/assets/desafio-entrevista.jpg?raw=true)
 
 Recomendamos o uso do [Angular Material](https://material.angular.io/guide/getting-started) para facilitar o desenvolvimento, caso sinta-se a vontade com outra lib de componentes estilizados sinta-se a vontade de fazer uso.
 
